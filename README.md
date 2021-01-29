@@ -51,5 +51,5 @@ O projeto foi desenvolvido utilizando a seguinte tecnologia
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
- <img alt="dash" title="#dash" width="400px" src="https://raw.githubusercontent.com/pedropbazzo/dasboard/main/src/assets/print.png">
+ <img alt="dash" title="#dash" width="800px" src="https://raw.githubusercontent.com/pedropbazzo/dasboard/main/src/assets/print.png">
 
