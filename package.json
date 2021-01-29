@@ -24,9 +24,6 @@
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
-  "publishConfig": {
-  "registry":"registry=https://npm.pkg.github.com/pedropbazzo"
-},
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.8",
     "@angular/cli": "~8.3.8",
