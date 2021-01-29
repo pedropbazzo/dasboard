@@ -25,7 +25,7 @@
     "zone.js": "~0.9.1"
   },
   "publishConfig": {
-  "registry":"https://npm.pkg.github.com"
+  "registry":"registry=https://npm.pkg.github.com/pedropbazzo"
 },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.8",
