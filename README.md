@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
+![Node.js Package](https://github.com/pedropbazzo/dasboard/workflows/Node.js%20Package/badge.svg)
 </p>
 
 # Como usar
