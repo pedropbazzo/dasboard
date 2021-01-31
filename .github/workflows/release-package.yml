@@ -27,4 +27,4 @@ jobs:
       - run: npm ci
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{secrets.@pedroP1993}}
+          NODE_AUTH_TOKEN: ${{secrets.********}}
