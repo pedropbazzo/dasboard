@@ -44,5 +44,17 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "<h3 align=\"center\">     <img alt=\"Logo\" title=\"#logo\" width=\"400px\" src=\"https://avatars.githubusercontent.com/u/32115702?s=460&u=18b6f3c1f7fb02331ad007fd21a6fdd1c2105790&v=4\">     <br><br>     <br> </h3>",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedropbazzo/dasboard.git"
+  },
+  "author": "pedropbazzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pedropbazzo/dasboard/issues"
+  },
+  "homepage": "https://github.com/pedropbazzo/dasboard#readme"
 }
